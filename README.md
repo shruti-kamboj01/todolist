@@ -10,4 +10,3 @@
     ```
 ## Structure
 It's a great app for understanding how states work in react.
-Now, 
